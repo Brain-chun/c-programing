@@ -1,0 +1,5 @@
+﻿  List.cpp
+C:\Users\bumso\source\repos\project\project\List.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  project.cpp
+  코드를 생성하고 있습니다...
+  project.vcxproj -> C:\Users\bumso\source\repos\project\Debug\project.exe
