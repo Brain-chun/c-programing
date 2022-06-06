@@ -1,0 +1,14 @@
+THe sum of 4number is in the infile
+ is 10
+THe sum of 4number is in the infile
+ is 10
+THe sum of 10number is in the infile
+ is 55
+THe sum of 10number is in the infile
+ is 55
+THe sum of 10number is in the infile
+ is 55
+THe sum of 10number is in the infile
+ is 55
+THe sum of 9number is in the infile
+ is 45
